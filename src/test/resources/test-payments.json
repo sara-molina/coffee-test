@@ -1,0 +1,10 @@
+[
+  {
+    "user": "Alice",
+    "amount": 3.50
+  },
+  {
+    "user": "Bob",
+    "amount": 2.00
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "drink_name": "Latte",
+    "prices": {
+      "SMALL": 2.50,
+      "MEDIUM": 3.00,
+      "LARGE": 3.50
+    }
+  },
+  {
+    "drink_name": "Espresso",
+    "prices": {
+      "SMALL": 1.50,
+      "MEDIUM": 2.00,
+      "LARGE": 2.50
+    }
+  }
+]

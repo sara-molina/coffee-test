@@ -1,0 +1,12 @@
+[
+  {
+    "user": "Alice",
+    "drink": "Latte",
+    "size": "MEDIUM"
+  },
+  {
+    "user": "Bob",
+    "drink": "Espresso",
+    "size": "SMALL"
+  }
+]
