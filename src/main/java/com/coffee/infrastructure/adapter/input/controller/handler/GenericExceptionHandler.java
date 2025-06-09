@@ -17,7 +17,7 @@ public class GenericExceptionHandler {
   }
 
   @ExceptionHandler(Exception.class)
-  public ResponseEntity<ErrorModelApi> handleNotFoundException(Exception ex) {
+  public ResponseEntity<ErrorModelApi> handleGenericException(Exception ex) {
     return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
         .body(
             ErrorModelApi.builder()
